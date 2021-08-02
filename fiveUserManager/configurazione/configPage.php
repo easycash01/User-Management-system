@@ -1,0 +1,6 @@
+<?php
+$opzioni_pagina = [
+    
+    ]
+
+?>
